@@ -1,0 +1,22 @@
+{
+  "name": "notebook-backend",
+  "version": "1.0.0",
+  "description": "This NoteBook With Mern backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-BlackHat-lab/Backend-NoteBook-With-mern.git"
+  },
+  "author": "Prahalad Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-BlackHat-lab/Backend-NoteBook-With-mern/issues"
+  },
+  "homepage": "https://github.com/Mr-BlackHat-lab/Backend-NoteBook-With-mern#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
